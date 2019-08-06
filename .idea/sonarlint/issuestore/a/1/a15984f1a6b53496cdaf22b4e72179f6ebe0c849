@@ -1,0 +1,15 @@
+
+rsquid:S1450 "[Remove the "cameraButton" field and declare it as a local variable in the relevant methods.(Î–Á
+xsquid:S1450!"\Remove the "galleryButton" field and declare it as a local variable in the relevant methods.(³Ë´¾úÿÿÿÿ
+nsquid:S2095´"QUse try-with-resources or close this "AssetFileDescriptor" in a "finally" clause.(ñ–’«ıÿÿÿÿ
+esquid:S4042E"IUse "java.nio.Files#delete" here for better messages on error conditions.(é‘‚©úÿÿÿÿ
+hsquid:S1301•"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+qsquid:CallToDeprecatedMethod&"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¶±„
+@squid:S1148Ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck•""Add a default case to this switch.(×ö³–úÿÿÿÿ
+ysquid:S1488Z"bImmediately return this expression instead of assigning it to the temporary variable "preference".(…Ş˜
+?squid:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+}squid:S1488¶"`Immediately return this expression instead of assigning it to the temporary variable "original".(–•‡‘ıÿÿÿÿ
+V
+squid:S899E";Do something with the "boolean" value returned by "delete".(é‘‚©úÿÿÿÿ
+]squid:CallToDeprecatedMethod'"0Remove this use of "onAttach"; it is deprecated.(„ÿªûúÿÿÿÿ

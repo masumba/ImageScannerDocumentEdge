@@ -1,0 +1,8 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã²èå8¶‘×™Æ-
+ysquid:S1450"[Remove the "cameraButton" field and declare it as a local variable in the relevant methods.(Æ»¾û8¨×’™Æ-
+}squid:S1450"ZRemove the "mediaButton" field and declare it as a local variable in the relevant methods.( õöÓûÿÿÿÿ8¨×’™Æ-
+|squid:S1450"YRemove the "scanButton" field and declare it as a local variable in the relevant methods.(¹ô™øÿÿÿÿ8¨×’™Æ-
+hsquid:UnusedPrivateMethodY"=Remove this unused private "convertByteArrayToBitmap" method.(€¦ív8¨×’™Æ-
+Fsquid:S1148T"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8°ƒ©™Æ-
+lsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(²Ú±Ž8Ñ—ù˜Æ-
